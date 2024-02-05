@@ -1,0 +1,38 @@
+.images .box1{
+    position: absolute;
+    top: 40px;
+    right: 310px;
+    background: url(images/image1.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 230px;
+    border: .5px solid gray;
+    height: 350px;
+    border-radius: 8px;
+
+}
+
+.images .box2{
+    position: absolute;
+    top: 250px;
+    right: 580px;
+    background: url(images/image2.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 230px;
+    border: .5px solid gray;
+    height: 350px;
+    border-radius: 8px;
+
+}
+
+.images .box3{
+     border-radius: 8px;
+    position: absolute;
+    top: 250px;
+    right: 45px;
+    background: url(images/image3.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 230px;
+    border: .5px solid gray;
+    height: 350px;
+}
+
